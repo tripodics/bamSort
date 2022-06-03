@@ -17,6 +17,9 @@ String title=  "bamSort"
 // 2602k:  Prepare for other sorting algortimss:  i, s, b
 // 2529g:  variable array size,  variable data range.
 
+
+
+
 char type='e';
 int many=10, min=1, max=100;
 //--  int[] e = new int[many];
