@@ -1,6 +1,9 @@
 /// Qiksort "bamSort"
 // partition (with minimal moving, using empty slot)..
 
+
+
+
 String title=  "bamSort"
   , subtitle=  "qiksort partitioning w/o swaps  (use empty slot)."
   , news="..."
